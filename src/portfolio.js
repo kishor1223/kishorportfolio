@@ -154,7 +154,7 @@ const workExperiences = {
       role: "Full Stack Developer",
       company: "Thikse Software Solution",
       companylogo: require("./assets/images/thikse.png"),
-      date: "June 2025 - Present",
+      date: "June 2025 - June 2026",
       desc: "Worked as a Full Stack Developer Intern and now as a developer, contributing to the design, development, and deployment of live production websites using Angular and PHP Laravel.",
       descBullets: [
         "Actively involved in real-time enterprise projects, including HRMS and ATS.",
